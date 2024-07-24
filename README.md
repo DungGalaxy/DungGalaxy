@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DungGalaxy
-- 👀 I’m interested in: ```technical frontend mobile, code (swift, flutter, java ...), music```
-- 🌱 I’m currently learning: ```flutter``` 
+- 👀 I’m interested in: ```technical frontend mobile/ BE, code (swift, flutter, java, python ...), music```
+- 🌱 I’m currently learning: ```python advanced``` 
 - 📫 How to reach me: ```discord, slack, skype```
 
 <!---
